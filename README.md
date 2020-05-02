@@ -4,7 +4,7 @@
 ## Table 
 Name | Country | Original Univeristy | ERASMUS University |
 ---- | --------|---------------------|--------------------|
-Dammaris Abril Barrera Moreno | Mexico | Universidad de Guadalajara | Slaski University w Katowice |
+Abril Barrera | Mexico | Universidad de Guadalajara | Slaski University w Katowice |
 
 ## Link
 http://github.com - automatic!
